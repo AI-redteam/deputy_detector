@@ -1,5 +1,8 @@
 # AWS Confused Deputy Potential Vulnerability Detector
 
+![ascii-art](https://github.com/user-attachments/assets/dece3950-8b01-4a47-beae-267a63b07f68)
+
+
 **Version:** 0.1.0
 **Last Updated:** April 21, 2025
 
