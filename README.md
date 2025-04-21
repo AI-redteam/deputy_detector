@@ -1,4 +1,4 @@
-# AWS Confused Deputy Potential Vulnerability Detector
+# Deputy Detector
 
 ![ascii-art](https://github.com/user-attachments/assets/dece3950-8b01-4a47-beae-267a63b07f68)
 
