@@ -109,4 +109,4 @@ The AWS principal (user or role) running this tool requires *at least* the follo
 This tool is provided for informational and auditing purposes only. The detection logic is based on common patterns and may produce false positives or miss context-specific nuances. **All findings must be manually verified by qualified personnel.** Do not rely solely on this tool for security assessments. The authors are not responsible for any misuse of this tool or misinterpretation of its results. This is **not** an exploitation tool.
 
 ---
-*This README was generated based on tool requirements specified on April 21, 2025, in Georgetown, Texas, United States.*
+
